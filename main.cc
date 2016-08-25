@@ -11,7 +11,7 @@ int main()
 
 	r=sub(a,b);
 	cout<<"sub is :"<<r;
-
+	cout<<"Good Morning from Bhagat";
 return 0;
 }
 
